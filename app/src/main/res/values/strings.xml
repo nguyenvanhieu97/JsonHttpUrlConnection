@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JsonHttpUrlConnection</string>
+    <string name="load_data_failed">Load data failed</string>
+    <string name="load_data_successfull">Load data successfull</string>
 </resources>
